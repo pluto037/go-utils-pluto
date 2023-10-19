@@ -1,4 +1,4 @@
-module pluto-go
+module github.com/pluto037/pluto-go
 
 go 1.19
 
