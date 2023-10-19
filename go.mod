@@ -1,4 +1,4 @@
-module go-utils
+module pluto-go
 
 go 1.18
 
