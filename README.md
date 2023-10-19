@@ -1,2 +1,2 @@
-# go-utils-pluto
-常用工具组件
+# pluto-go
+服务框架组件
